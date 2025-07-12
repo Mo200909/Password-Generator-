@@ -30,9 +30,4 @@ The main function is `make_secure_password()` which lets you customize:
 
 The script keeps generating a password until it satisfies all enabled criteria.
 
----
 
-## ▶️ Running the Project
-
-```bash
-python 279d5880-7f4f-414d-8c1b-cb7557db9fd1.py
